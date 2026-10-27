@@ -1,6 +1,12 @@
 # sunweihunu.github.io
 
+**作者**：孙伟 · 中山大学地理科学与规划学院
+
 课程网站总入口（GitHub Pages 用户主页）。修改 `index.html` 后推送至 `main` 分支即可即时更新。
+
+## 版权
+
+© 2026 孙伟 · 中山大学地理科学与规划学院。本站内容采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 许可协议：署名（须保留作者署名及原始出处）、非商业（不得用于商业目的）、禁止演绎（不得修改、转换或再创作）。
 
 ## 当前收录
 
